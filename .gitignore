@@ -16,6 +16,8 @@ Content/CovertToInstances
 *.sdf
 
 pics/
+Content/Music/*_2.*
+
 
 # Windows image file caches
 Thumbs.db
