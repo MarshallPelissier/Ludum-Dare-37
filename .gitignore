@@ -15,6 +15,7 @@ Content/CovertToInstances
 *.suo
 *.sdf
 
+pics/
 
 # Windows image file caches
 Thumbs.db
